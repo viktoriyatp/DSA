@@ -1,0 +1,3 @@
+[submodule "DSA"]
+	path = DSA
+	url = git@github.com:viktoriyatp/DSA.git
